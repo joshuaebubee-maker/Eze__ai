@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EZE</string>
+    <string name="assistant_name">EZE</string>
+    <string name="wake_word">Hey EZE</string>
+    <string name="wake_word_short">EZE</string>
+    <string name="assistant_service_label">EZE Voice Interaction Service</string>
+    <string name="notification_listener_label">EZE Notification Service</string>
+    <string name="voice_service_channel_name">EZE Background Assistant</string>
+    <string name="voice_service_channel_desc">Active while voice assistant is listening or running</string>
+    <string name="default_assistant_prompt">Make EZE your default digital assistant</string>
+</resources>

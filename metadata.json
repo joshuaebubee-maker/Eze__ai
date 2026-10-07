@@ -1,0 +1,6 @@
+{
+  "name": "EZE",
+  "description": "Personal AI voice assistant and companion with Groq intelligence, phone controls, alarms, timers, and local memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
